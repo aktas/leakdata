@@ -1,0 +1,4 @@
+requests==2.26.0
+asyncio==3.4.3
+proxyhub
+colorama==0.4.4
